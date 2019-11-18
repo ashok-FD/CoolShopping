@@ -1,0 +1,80 @@
+#banner_1{
+    background: #DECD6E;
+}
+#banner1Image{
+    margin-top:10px;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 300px;
+}
+#banner2Image{
+    width:100%;
+    height: 300px;
+}
+#banner_3{
+    margin-top:5px;
+}
+.carouselImage{
+    width: 808px;
+    height: 300px;
+}
+.whiteBar{
+    width: 100%;
+    height: 50px;
+    background: white;
+}
+.whiteBar2 {
+    width: 100%;
+    height: 50px;
+    background: white;
+    box-shadow: 0 4px 6px -6px #222;
+}
+.whiteBar3{
+    width: 100%;
+    height: 30px;
+    background: white;
+}
+.whiteBar4 {
+    width: 100%;
+    height: 40px;
+    background: white;
+}
+#galleryHeader{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.galleryImage{
+    width: 100%;
+    height: 400px;
+}
+#backToTop{
+    width: 100%;
+    color: white;
+    background: #412828;
+}
+#footer{
+    background: #ddcc70;
+}
+.footerContent{
+    background: #ddcc70;
+    border: none;
+}
+.list-group-item{
+    margin-top:0px;
+    margin-bottom: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.footer1row,
+.footer2row{
+    border-right: 1px solid black;
+}
+.footerLink{
+    text-decoration: none;
+    color: black;
+}
+.footerLink:hover {
+    text-decoration: none;
+    color: #412828;
+}

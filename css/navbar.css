@@ -1,0 +1,32 @@
+nav{
+    background: rgba(146, 91, 91, 0.64);
+    color: white;
+}
+.nav-link,
+.nav-link:hover{
+    margin-left:100px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+.NavsearchBar{
+    margin-left:120px;
+}
+ input[type="search"]::placeholder {
+     color: white;
+     padding:0px;
+     text-align: center;
+ }
+ .navSearch {
+     background: rgba(146, 91, 91, 0.64);
+ }
+ .cartBtn{
+     margin-left:140px
+ }
+ .cartImage{
+     height: 40px;
+ }
+ .cartText{
+    margin-left:25px;
+    margin-top:7.5px;
+ }

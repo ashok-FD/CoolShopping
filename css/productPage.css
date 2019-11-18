@@ -1,0 +1,63 @@
+#flowerBigImage{
+    margin-top:20px;
+    width: 300px;
+    height: 300px;
+}
+#flowerImage1,
+#flowerImage2,
+#flowerImage3 {
+    width:100px;
+    height: 100px;
+    margin-bottom:15px;
+}
+.checked{
+    color: orange;
+}
+.starContainer{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.productPagebutton{
+    margin-top:100px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.productbtn1{
+    width: 100%;
+    font-weight: 500;
+    background: #2E8CAE;
+}
+.productbtn2 {
+    width: 100%;
+    font-weight: 500;
+    background: #C3404E;
+}
+.similarProduct{
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.125);
+}
+.similarProductImage{
+    width: 300px;
+    height: 400px;
+}
+#flowerOrderImage{
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;
+}
+#placeOrderBtn{
+    width:100%;
+    background: #ff3e6b;
+    color:white;
+}
+.icon {
+    text-align: center;
+    height: 400.30px;
+    padding-top: 80px;
+}
+#formBtn,
+#returnBtn {
+    width:100%;
+    background: #ff3e6b;
+    color:white;
+}
